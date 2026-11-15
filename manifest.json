@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.1",
-  "release_notes": "Initial NineDartR release",
-  "download_url": "https://github.com/NineDartR/ninedartr-updates/releases/download/v1.0.1/ninedartr-1.0.1.tar.gz"
+  "latest": "1.0.2",
+  "release_notes": "NineDartR v1.0.2 - calibration page improvements, native Autodarts board controls, cleaner status page, improved board-state display and UI refinements.",
+  "download_url": "https://github.com/NineDartR/ninedartr-updates/releases/download/v1.0.2/ninedartr-1.0.2.tar.gz"
 }
